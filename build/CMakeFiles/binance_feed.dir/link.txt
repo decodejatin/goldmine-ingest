@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/binance_feed.dir/src/binance_feed.cpp.o -o binance_feed  _deps/ixwebsocket-build/libixwebsocket.a -lpthread -lrt -ldl /usr/lib/x86_64-linux-gnu/libssl.so /usr/lib/x86_64-linux-gnu/libcrypto.so /usr/lib/x86_64-linux-gnu/libz.so 
